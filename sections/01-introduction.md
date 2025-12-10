@@ -1,0 +1,1 @@
+According to the NIST [1], "A log is a record of the events occurring within an organization’s systems and networks." System logs are made up of individual entries representing events called log entries. Logs typically

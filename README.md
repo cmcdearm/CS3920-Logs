@@ -21,7 +21,8 @@ This guide is designed for learners who *know the concept* but want to *see what
 | [Best Practices](sections/08-best-practices.md)                       | Clean, useful, and safe logging habits.             |
 | [Ethics & Privacy](sections/09-ethics-and-privacy.md)                 | Logging responsibly and respecting user data.       |
 | [Conclusion](sections/10-conclusion.md)                               | Final insights and summary.                         |
-| [Glossary](glossary.md)                                      | Quick definitions of key terms.                     |
+| [Glossary](glossary.md)                                               | Quick definitions of key terms.                     |
+| [[Sources]]                                                           | List of sources used.                               |
 
 ---
 
