@@ -1,4 +1,4 @@
-[1] K. Kent and M. Souppaya, “Guide to Computer Security Log Management.” National Institute for Standards and Technology, Gaithersberg, Sep. 2006
+[1] K. Kent and M. Souppaya, “Guide to Computer Security Log Management.” National Institute for Standards and Technology, https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf, Gaithersberg, Sep. 2006
 
 [2] “Everything you need to know about system logs and how they empower IT security,” SearchInform, https://searchinform.com/articles/cybersecurity/measures/log-management/system-log/ (accessed Dec. 9, 2025).
 
