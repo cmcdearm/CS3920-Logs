@@ -15,3 +15,5 @@
 [8] A. Sharif, “Log files: Definition, types, and importance,” CrowdStrike, https://www.crowdstrike.com/en-us/cybersecurity-101/next-gen-siem/log-file/ (accessed Dec. 17, 2025).
 
 [9] A. Sharif, “What are audit logs? use cases and challenges,” CrowdStrike, https://www.crowdstrike.com/en-us/cybersecurity-101/next-gen-siem/audit-logs/ (accessed Dec. 17, 2025).
+
+[10] “Best practices for event logging and threat detection” Australian Signals Directorate, https://www.cyber.gov.au/business-government/detecting-responding-to-threats/event-logging/best-practices-for-event-logging-and-threat-detection (accessed Dec. 9, 2025).
