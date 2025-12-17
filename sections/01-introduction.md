@@ -5,7 +5,7 @@ Logs serve tons of functions for systems management and security, logs support t
 ### [What Kinds of Logs Are There?](sections/03-types-of-logs.md) 
 Logs can vary greatly depending on their origin and the context of their systems - some examples are operating system logs, application logs, network device logs, security/audit logs, database logs, and others [4]. For a more expansive list see [[03-types-of-logs]].
 ### [What Do Logs Look Like?](sections/04-anatomy-of-a-log.md)
-content here
+The structure of a log depends on the format of the log, there are three formats; Structured, Unstructured, and Semi-Structured. Each has their own advantages and disadvantages elaborated more in [[04-anatomy-of-a-log]].
 ### [What determines a Log's importance?](sections/05-log-levels-and-standards.md)
 content here
 ### [How Are Logs Managed?](sections/06-storage-and-management.md)
