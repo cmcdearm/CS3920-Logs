@@ -10,3 +10,6 @@
 
 [6] “Logging (computing),” Wikipedia, https://en.wikipedia.org/wiki/Logging_(computing) (accessed Dec. 9, 2025).
 
+[7] A. Sharif, “What is an application log? definition and types,” CrowdStrike, https://www.crowdstrike.com/en-us/cybersecurity-101/observability/application-logs/ (accessed Dec. 17, 2025).
+
+[8] A. Sharif, “Log files: Definition, types, and importance,” CrowdStrike, https://www.crowdstrike.com/en-us/cybersecurity-101/next-gen-siem/log-file/ (accessed Dec. 17, 2025).
