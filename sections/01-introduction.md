@@ -7,7 +7,7 @@ Logs can vary greatly depending on their origin and the context of their systems
 ### [What Do Logs Look Like?](sections/04-anatomy-of-a-log.md)
 The structure of a log depends on the format of the log, there are three formats; Structured, Unstructured, and Semi-Structured. Each has their own advantages and disadvantages elaborated more in [[04-anatomy-of-a-log]].
 ### [What determines a Log's importance?](sections/05-log-levels-and-standards.md)
-The leve
+The log level determines the urgency of a log, there are many different levels (also called severities) that a log can have. There are also different standards for the logs. More information is in [[05-log-levels-and-standards]].
 ### [How Are Logs Managed?](sections/06-storage-and-management.md)
 Logs are stored and managed in several different ways. There are many ways of storing them, each with a tradeoff for efficiency, storage space, ease of access, security, and redundance. For a more in-depth look, see [[06-storage-and-management]]
 ### [What Ethical Considerations Are There For Logging?](07-ethics-and-privacy.md)
