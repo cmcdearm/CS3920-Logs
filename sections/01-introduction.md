@@ -1,5 +1,5 @@
 ### What are Logs?
-According to the NIST, "A log is a record of the events occurring within an organization’s systems and networks [1]." System logs are made up of individual entries representing events called **log entries**. Each entry documents a specific occurrence, like a user action, a system change,     application error, or network activity.
+According to the NIST, "A log is a record of the events occurring within an organization’s systems and networks [1]." System logs are made up of individual entries representing events called **log entries**. Each entry documents a specific occurrence, like a user action, a system change, application error, or network activity. In the following sections you will learn more about logs.
 ### [What's The Purpose of Logs?](sections/02-importance.md)
 Logs serve tons of functions for systems management and security, logs support troubleshooting, performance monitoring, systems health assessments, etc. Logs also play an important role in compliance by providing evidence of system activity or system access patterns. For a more in-depth look, see [[02-importance]]
 ### [What Kinds of Logs Are There?](sections/03-types-of-logs.md) 
