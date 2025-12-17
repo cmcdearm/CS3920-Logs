@@ -1,14 +1,2 @@
 Logs are a foundational part of modern computing systems, serving as the primary record of 
-software, hardware, and user interacions. Understanding the importance of proper maintenence, interpretation,
-formatting, etc. is necessary to utilize them.
-
-By examining log levels, standards, and common storage/management practices, it's clear that effectively 
-logging relies on consistent and proper management. Logs that lack structure or content can be greatly detrimental
-to system security and reliability. 
-
-Lastly, the ethical and privacy considerations highlight the responsibility that comes with logging users' data,
-logs can contain sensitive information, and collection. storage, and retention of these sensitive logs must be
-handled with the utmost care.
-
-Logs aren't just a debugging aid, they're a critical system component. A strong understanding of logging practices 
-allows programmers to build reliable, secure, and accountable systems in the future.
+software, hardware, and user interacions. Understanding the importance of proper maintenence, interpretation, formatting, etc. is necessary to utilize them. By examining log levels, standards, and common storage/management practices, it's clear that effective logging relies on consistent and proper management. Logs that lack structure or content can be greatly detrimental to system security and reliability. Lastly, the ethical and privacy considerations highlight the responsibility that comes with logging users' data, logs can contain sensitive information, and collection. storage, and retention of these sensitive logs must be handled with the utmost care. Logs aren't just a debugging aid, they're a critical system component. A strong understanding of logging practices allows programmers to build reliable, secure, and accountable systems in the future.
