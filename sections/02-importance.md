@@ -1,7 +1,8 @@
-According to Splunk [3], with logging data IT experts are able to:
-- Debug and troubleshoot issues
-- Track progress and results
-- Monitor performance
-- Gain valuable insights to inform decision making
-- Audit and analyze security events
-- Detect patterns or trends
+Logs are important as they are basically a report of every thing that has been done. Logs enable the following to be done easily;
+### Troubleshooting and Debugging
+### Security Monitoring and Threat Analysis
+### Auditing
+### System Performance Insights
+### System Error Detection
+### Legal Evidence
+### Ease of History
