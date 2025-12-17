@@ -7,14 +7,10 @@ Logs can vary greatly depending on their origin and the context of their systems
 ### [What Do Logs Look Like?](sections/04-anatomy-of-a-log.md)
 The structure of a log depends on the format of the log, there are three formats; Structured, Unstructured, and Semi-Structured. Each has their own advantages and disadvantages elaborated more in [[04-anatomy-of-a-log]].
 ### [What determines a Log's importance?](sections/05-log-levels-and-standards.md)
-content here
+The leve
 ### [How Are Logs Managed?](sections/06-storage-and-management.md)
 Logs are stored and managed in several different ways. There are many ways of storing them, each with a tradeoff for efficiency, storage space, ease of access, security, and redundance. For a more in-depth look, see [[06-storage-and-management]]
-### [How Do I Read Logs?](sections/07-analysis-and-visualization.md)
-content here
-### [What are some of the best practices for logging?](sections/08-best-practices.md)
-content here
-### [What Ethical Considerations Are There For Logging?](sections/09-ethics-and-privacy.md)
-Logs have several considerations in what they should and shouldn't log. These considerations are usually ethical and privacy related, such as not logging passwords, or revealing user data. For more info, see [[09-ethics-and-privacy]].
-### [In Conclusion...](sections/10-conclusion.md)
+### [What Ethical Considerations Are There For Logging?](07-ethics-and-privacy.md)
+Logs have several considerations in what they should and shouldn't log. These considerations are usually ethical and privacy related, such as not logging passwords, or revealing user data. For more info, see [[07-ethics-and-privacy]].
+### [In Conclusion...](08-conclusion.md)
 content here
