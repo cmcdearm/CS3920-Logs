@@ -33,4 +33,5 @@ $ cat app-log.json
 {"timestamp": "2025-11-05T10:22:31Z", "level": "INFO", "service": "Auth", "message": "User 'alex' logged in successfully."}
 ```
 
+## Honor Statement
 **I have neither given nor received unauthorized assistance on this work** - Bryce Curtis, Calvin McDearman
